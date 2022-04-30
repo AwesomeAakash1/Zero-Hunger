@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hyperlink_WFP">Donate to the World Food Programme\n<a href="https://secure.wfpusa.org/donate/save-lives-giving-food-today-donate-now-7?ms=2000_UNR_wfp_redirect_EX&#38;redirected=US">secure.wfpusa.org</a></string>
+    <string name="hyperlink_THP">Donate to The Hunger Project\n<a href="https://thp.org/">thp.org</a></string>
+    <string name="hyperlink_AAH">Donate to Action Against Hunger\n<a href="https://www.actionagainsthunger.org/">actionagainsthunger.org/</a></string>
+
+</resources>
